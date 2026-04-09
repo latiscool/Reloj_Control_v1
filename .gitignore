@@ -1,0 +1,18 @@
+# Archivos específicos del proyecto
+PASOS.md
+
+# Entorno virtual de Python
+.venv/
+env/
+
+# Compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Base de datos local (ej. SQLite)
+db.sqlite3
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
